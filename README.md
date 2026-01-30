@@ -4,6 +4,7 @@ A real-time computer vision system to detect, classify, and track Indian traffic
 
 This project is designed for Indian road scenarios, handling mixed traffic such as cars, bikes, buses, trucks, and auto-rickshaws, with queue analysis near stop lines.
 
+
 📌 Features
 
 🚗 Multi-vehicle detection using YOLOv8 (Car, Bike, Bus, Truck)
@@ -58,6 +59,7 @@ Stationary vehicles
 
 Partial line touches
 
+
 🛺 Indian Vehicle Classification
 
 Auto-rickshaws are identified using:
@@ -70,6 +72,7 @@ YOLO class fallback
 
 This improves accuracy in dense Indian traffic where COCO labels fail.
 
+
 📊 Output Visualization
 
 🟩 Green box → Normal vehicle
@@ -79,6 +82,7 @@ This improves accuracy in dense Indian traffic where COCO labels fail.
 🔴 Stop line marked clearly
 
 📈 Live counters on video
+
 
 🎯 Use Cases
 
@@ -91,6 +95,7 @@ Smart city surveillance
 Hackathons & research demos
 
 Computer vision portfolios
+
 
 🚀 Future Enhancements
 
@@ -105,3 +110,7 @@ Speed estimation
 Cloud deployment (Edge + CCTV)
 
 Dashboard analytics
+
+
+[Project Documentation – Google Doc](https://docs.google.com/document/d/1TO_wu279hTBEoxIMDgHH4nOj9X20sJsO/edit)
+[Presentation Video – Loom](https://www.loom.com/share/9aeb5c24a4a64c12883f6e46bfbe0b8b)
